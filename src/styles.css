@@ -6,6 +6,10 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  text-align: center;
+}
+
 p {
   font-size: 20px;
   text-align: center;
@@ -29,4 +33,5 @@ a {
   background-color: coral;
   padding: 10px;
   border-radius: 5px;
+  margin: 10px;
 }
